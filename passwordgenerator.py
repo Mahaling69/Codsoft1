@@ -20,3 +20,4 @@ try:
         print("Generated Password:", password)
 except ValueError:
     print("Invalid input. Please enter a valid number for the password length.")
+    
